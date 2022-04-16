@@ -1,4 +1,5 @@
-# 如何将 WhatsApp 照片文件下载到电脑
+<center># 如何将 WhatsApp 照片文件下载到电脑</center>
+
 
 我们可以将 [WhatsApp](https://www.henduohao.com/tag/whatsapp "WhatsApp Messenger（简称WhatsApp）是一款用于智能手机之间通讯的应用程序，支持iPhone手机和Android手机。可免费从发送手机短信转为使用WhatsApp程序，以发送和接收信息、图片、音频文件和视频信息。") 照片直接下载到计算机，而不是让它们堵塞手机上的存储空间，在下面我将告诉你把 [WhatsApp](https://www.henduohao.com/tag/whatsapp "WhatsApp Messenger（简称WhatsApp）是一款用于智能手机之间通讯的应用程序，支持iPhone手机和Android手机。可免费从发送手机短信转为使用WhatsApp程序，以发送和接收信息、图片、音频文件和视频信息。") 照片下载到计算机的步骤。
 
