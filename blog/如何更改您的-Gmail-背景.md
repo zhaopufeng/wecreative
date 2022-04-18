@@ -29,7 +29,7 @@
 
 第 5 步。您现在应该能够看到鼓舞人心的新背景。
 
-![如何更改您的 Gmail 背景](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bd330737733b473bacad7e1232283d00~tplv-k3u1fbpfcp-zoom-1.image) \
+![如何更改您的 Gmail 背景](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bd330737733b473bacad7e1232283d00~tplv-k3u1fbpfcp-zoom-1.image) 
 如果您感觉幸运，请一直向下滚动“选择您的主题”窗口并选择“随机图像”选项。但请注意 - 并非所有图像都是平等的，有些图像实际上可能会分散您的工作而不是帮助。
 
 ![如何更改您的 Gmail 背景](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dc229d74d2874161ad4a28ccf771b4ab~tplv-k3u1fbpfcp-zoom-1.image)

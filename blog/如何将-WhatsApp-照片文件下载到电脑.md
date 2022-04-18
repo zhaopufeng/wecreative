@@ -57,7 +57,7 @@
 
 ![退出 WhatsApp 网页](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/87899124313d46de97c2f7973b439bed~tplv-k3u1fbpfcp-zoom-1.image)
 
-\
+
 
 
 本文链接：[https://www.henduohao.com/a/how-to-save-whatsapp-photos-to-pc](https://www.henduohao.com/a/how-to-save-whatsapp-photos-to-pc "如何将 WhatsApp 照片文件下载到电脑")，转载请注明出处，谢谢！

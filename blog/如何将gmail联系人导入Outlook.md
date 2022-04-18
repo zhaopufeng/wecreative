@@ -3,7 +3,7 @@
 
 如果您还有[Gmail](https://www.henduohao.com/tag/gmail "Gmail邮箱购买 谷歌邮箱购买 Gmail购买 Google账号购买")帐户并希望将您的电子邮件帐户迁移到[Gmail](https://www.henduohao.com/tag/gmail "Gmail是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。")，则[Google](https://www.henduohao.com/tag/google "Google（中文譯名：谷歌）為Alphabet（字母控股）的子公司，业务范围涵盖互联网广告、互联网搜索、云计算等领域，全球最大的搜索引擎。")可以使此过程变得轻松。
 
-\
+
 
 
 如何将您的[Outlook](https://www.henduohao.com/product/1038.html)邮件和联系人导入[Gmail](https://www.henduohao.com/product/1003.html)
@@ -12,12 +12,12 @@
 
 （您可能没有任何要保留在这些文件夹中的邮件 - 毕竟，这些文件夹通常只包含您想要摆脱和不需要的电子邮件，但以防万一）。
 
-\
+
 
 
 要将[Outlook](https://www.henduohao.com/tag/outlook "Outlook是互联网免费电子邮件提供商之一，是一种微软邮箱。")邮件，文件夹和地址簿联系人迁移到[Gmail](https://www.henduohao.com/tag/gmail "Gmail是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。")，请按照以下步骤操作：
 
-\
+
 
 
 在您的Gmail帐户页面中，点击页面右上角的设置按钮（它看起来像一个齿轮图标）。
@@ -46,7 +46,7 @@
 
 导入过程将在没有您的进一步帮助的情况下运行。您可以继续在您的Gmail帐户中工作，也可以退出Gmail帐户 ; 无论您是否打开Gmail帐户，导入过程都将在幕后继续进行。
 
-\
+
 
 
 **导入过程可能需要一段时间，甚至几天，具体取决于您导入的电子邮件和联系人的数量。**

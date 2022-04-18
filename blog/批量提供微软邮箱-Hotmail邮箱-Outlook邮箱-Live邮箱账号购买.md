@@ -1,5 +1,5 @@
 # 批量提供微软邮箱、Hotmail邮箱、Outlook邮箱、Live邮箱账号购买
-**购买地址：**  \
+**购买地址：**  
 [Hotmail邮箱购买](https://www.henduohao.com/product/1037.html "Hotmail邮箱购买")
 
 [Outlook邮箱购买](https://www.henduohao.com/product/1038.html "Outlook邮箱购买")
@@ -10,7 +10,7 @@
 
 [邮箱批发](https://www.henduohao.com/tag/wholesale-email "邮箱购买 Gmail邮箱 跨境电商 邮件营销 outlook hotmail 亚马逊账号 小号购买 邮箱批发")
 
-\
+
 
 
 **购买须知**：
@@ -21,7 +21,7 @@
 
 登录后请尽快修改账户密码，辅助邮箱，并绑定个人手机验证，以上操作建议在电脑端完成
 
-\
+
 
 
 **使用须知**：
@@ -40,10 +40,10 @@
 
 ![微软邮箱购买 hotmail outlook](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b07cb17b45f145e884976e2e51fffe16~tplv-k3u1fbpfcp-zoom-1.image)
 
-\
 
 
-\
+
+
 
 
 本文链接：[https://www.henduohao.com/a/outlook-hotmail-account-sale](https://www.henduohao.com/a/outlook-hotmail-account-sale "批量提供微软邮箱、Hotmail邮箱、Outlook邮箱、Live邮箱账号购买")，转载请注明出处，谢谢！

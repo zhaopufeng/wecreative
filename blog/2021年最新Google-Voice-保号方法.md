@@ -11,20 +11,20 @@
 
 ##### 2、拔打免费电话
 
-美国之声：+1(213)493-0288\
-微软客服：+1 (800) 642-7676\
-Apple客服： +1(800)275-2273\
+美国之声：+1(213)493-0288
+微软客服：+1 (800) 642-7676
+Apple客服： +1(800)275-2273
 亚马逊客服：+1(206)266-2992
 
 ## 3、订阅短信
 
-67135 发送AUTO 回复Y AutoZone 4条/mo\
-555444 发送SIGNUP 回复Y 6msgs/mo\
-22122 发送JOIN 星巴克 2msg/mo\
-527365 发送join 回复yes 8msg / mo\
-25666 先发code 然后回复PROMO\
-47272 发送START 回复 OK 6msgs/mo\
-22000 发送info 秒回\
+67135 发送AUTO 回复Y AutoZone 4条/mo
+555444 发送SIGNUP 回复Y 6msgs/mo
+22122 发送JOIN 星巴克 2msg/mo
+527365 发送join 回复yes 8msg / mo
+25666 先发code 然后回复PROMO
+47272 发送START 回复 OK 6msgs/mo
+22000 发送info 秒回
 22000 发送help 稍回
 
 本文链接：[https://www.henduohao.com/a/how-to-keep-google-voice-account](https://www.henduohao.com/a/how-to-keep-google-voice-account "2021年最新Google Voice 保号方法")，转载请注明出处，谢谢！

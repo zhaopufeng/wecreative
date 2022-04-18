@@ -1,7 +1,7 @@
 # 如何删除gmail邮箱
 用这些简单的步骤关闭[Gmail](https://www.henduohao.com/tag/gmail "Gmail是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。")您可以删除Google [Gmail](https://www.henduohao.com/tag/gmail "Gmail是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。")帐户及其中的所有信息（并且仍保留您的Google，[YouTube](https://www.henduohao.com/tag/youtube "YouTube，谷歌旗下的美国影音分享网站，是目前全球最大的视频搜索和分享平台。")等帐户）。
 
-\
+
 
 
 为什么要删除[Gmail](https://www.henduohao.com/tag/gmail "Gmail是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。")帐户？
@@ -10,14 +10,14 @@
 
 Gmail会要求您点击无数次，当然还有您的密码。尽管如此，关闭您的Gmail帐户并删除邮件是非常简单的任务。
 
-\
+
 
 
 删除您的Gmail帐户
 
 要取消Gmail帐户并删除关联的Gmail地址，请执行以下操作：
 
-\
+
 
 
 转到Google帐户设置 。
@@ -64,17 +64,17 @@ Clic k 发送验证邮件 。
 
 邮件将被永久删除。您无法在Gmail中访问它们。
 
-\
+
 
 
 如果您使用Google Takeout或使用电子邮件程序下载了副本，那么当然您仍然可以使用这些消息。
 
-\
+
 
 
 **注意** ：如果您在电子邮件程序中使用[IMAP](https://www.henduohao.com/tag/imap "IMAP（Internet Message Access Protocol）以前称作交互邮件访问协议（Interactive Mail Access Protocol），是一个应用层协议。")访问Gmail ，则只会复制到本地文件夹的邮件; 服务器上的电子邮件和与删除的Gmail帐户同步的文件夹将被删除。
 
-\
+
 
 
 发送到我删除的Gmail地址的电子邮件发生了什么？

@@ -19,14 +19,14 @@
 
 通过在两个步骤或两个因素中激活验证，我们将在每次登录不受信任的设备时在我们的电子邮件、电话或身份验证器应用程序中获取一个安全代码。 还有一个常见的问题，我们几乎总是选择用手机来接收访问码。 但是，如果由于某种原因我们更改了号码，它被关闭了，我们丢失了手机或其他人需要访问，则将无法正常访问电子邮件，这可能会浪费宝贵的生产时间。 我们将学习在 [Outlook](https://www.henduohao.com/tag/outlook "Outlook是互联网免费电子邮件提供商之一，是一种微软邮箱。")中创建电子邮件帐户，而无需关联我们的手机。
 
-\
+
 [](https://technowikis.com/5345/how-to-create-an-outlook-account-without-phone-number-2019#1-create-email-account-in-outlook-2019)
 
 ## 1. 在 [Outlook](https://www.henduohao.com/tag/outlook "Outlook是互联网免费电子邮件提供商之一，是一种微软邮箱。")中创建电子邮件帐户
 
 第1步
 
-\
+
 要开始此过程，我们必须转到以下链接：
 
 **[Outlook](https://www.henduohao.com/tag/outlook "Outlook是互联网免费电子邮件提供商之一，是一种微软邮箱。")帐户
@@ -35,7 +35,7 @@
 
 第2步
 
-\
+
 在那里，我们单击“创建免费帐户”按钮，在下一个窗口中，我们将输入所需帐户的名称，我们可以选择以下域之一：
 
 -   [outlook.com](https://www.henduohao.com/a/outlook.com)
@@ -54,7 +54,7 @@
 
 第四步
 
-\
+
 我们再次单击“下一步”按钮，现在我们将输入基本信息，例如姓名和姓氏：
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e415e219363047cdb809fe3cebd1b94e~tplv-k3u1fbpfcp-zoom-1.image)
@@ -73,14 +73,14 @@
 
 第 7 步
 
-\
+
 单击下一步按钮后，我们将看到我们继续创建电子邮件帐户：
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/902ce371a0e3414a87b65a0cda75102b~tplv-k3u1fbpfcp-zoom-1.image)
 
 第 8 步
 
-\
+
 稍后我们可以定义在[Outlook](https://www.henduohao.com/tag/outlook "Outlook是互联网免费电子邮件提供商之一，是一种微软邮箱。")中使用的语言：
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9b531d7864204eda89926e98c50f0cdd~tplv-k3u1fbpfcp-zoom-1.image)
@@ -115,7 +115,7 @@
 
 第四步
 
-\
+
 单击“下一步”，在注册帐户中，我们将收到一个代码，我们必须输入该代码才能继续该过程：![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1b7de6fca151437cb8330cd75b39f220~tplv-k3u1fbpfcp-zoom-1.image)
 
 第 5 步

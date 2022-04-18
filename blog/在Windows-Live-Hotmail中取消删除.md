@@ -1,17 +1,17 @@
 # 在Windows Live Hotmail中取消删除
 如何从垃圾箱中恢复邮件
 
-\
+
 
 
 当你不小心删除了一个重要的电子邮件时，仍然存在已删除的文件夹，对吧？但是，什么时候没有 - 垃圾中没有留下这样的信息？
 
-\
+
 
 
 然后是安全网。即使从“ 已删除”文件夹清除后， Windows [Live](https://www.henduohao.com/tag/live-mail "Live Mail即Windows Live Mail，是微软的一项电子邮件服务。") [Hotmail](https://www.henduohao.com/tag/hotmail "Hotmail是互联网免费电子邮件提供商之一，是一种微软邮箱。")仍会保留几天的消息。在一个非常简单的过程中，您可以将这些备份副本恢复到垃圾箱，并取消删除相信已消失的邮件。
 
-\
+
 
 
 在Windows Live Hotmail中取消删除邮件并恢复丢失的垃圾邮件

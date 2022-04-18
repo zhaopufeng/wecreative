@@ -65,7 +65,7 @@
 
 2. 可送达性问题：如果您不遵守发件人指南，您的帐户可能会被暂时禁用。 您还需要确保您使用的是 合法的电子邮件地址 和域名。
 
-\
+
 
 
 如果您还没有Gmail，推荐[谷歌账号购买](https://www.henduohao.com/tag/buy-google-account "Gmail邮箱购买 谷歌邮箱购买 Gmail购买 Google账号购买")。

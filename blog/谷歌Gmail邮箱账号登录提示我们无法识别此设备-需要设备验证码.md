@@ -17,7 +17,7 @@
 
 所以判断是否干净的唯一标准是登录账号是否异常才能确定。
 
-\
+
 
 
 回到正题，如图片所遇见的问题，有时候换一个节点IP登录就不会提示，可以正常登录，有的换几个IP都不可以，多试几下的结果是即使后面用多干净的IP，由于尝试的次数过多，可能都已经导致账号异常，只能报废。
@@ -30,7 +30,7 @@
 
 故此，只能是买家使用相对干净的节点IP登录。如果您还没有Gmail，推荐[谷歌账号购买](https://www.henduohao.com/tag/buy-google-account "Gmail邮箱购买 谷歌邮箱购买 Gmail购买 Google账号购买")。
 
-\
+
 
 
 本文链接：[https://www.henduohao.com/a/gmail-can-not-identify-device](https://www.henduohao.com/a/gmail-can-not-identify-device "谷歌Gmail邮箱账号登录提示我们无法识别此设备，需要设备验证码")，转载请注明出处，谢谢！
