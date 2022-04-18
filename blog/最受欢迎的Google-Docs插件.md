@@ -3,7 +3,7 @@
 
 ## 7.[Grammar and Spell Checker](https://workspace.google.com/marketplace/app/grammar_and_spell_checker_languagetool/805250893316)
 
-![推荐几个好用的Google Docs插件](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/44f339bfb0124deaa1f97d0454a93c3e~tplv-k3u1fbpfcp-zoom-1.image)
+![推荐几个好用的Google Docs插件](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9b855d84222645dba947f599fd7bf29e~tplv-k3u1fbpfcp-zoom-1.image)
 
 你发现自己经常犯语法错误吗？ Google Docs 的语法检查工具是一个适用于英语、法语、波兰语、德语、西班牙语等的插件。
 
@@ -21,7 +21,7 @@ Yob 的诞生源于对 Google Docs 中有限的绘图功能和其他数据可视
 
 ## 9.[Form and Quiz Maker](https://gsuite.google.com/u/0/marketplace/app/formquiz_maker/204759760797)
 
-![推荐几个好用的Google Docs插件](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9a594b077e2c4aefa44f900ec614d1b0~tplv-k3u1fbpfcp-zoom-1.image)
+![推荐几个好用的Google Docs插件](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f48f31a971944ea1a1741fdc6e02a8a8~tplv-k3u1fbpfcp-zoom-1.image)
 
 Form & Quiz Maker 是一个 Google Docs 插件，它允许用户从您的 Google Docs 上的任何数据创建测验。
 
@@ -33,7 +33,7 @@ Form & Quiz Maker 是一个 Google Docs 插件，它允许用户从您的 Google
 
 ## 10.[MathType](https://workspace.google.com/marketplace/app/mathtype/742924286153)
 
-![推荐几个好用的Google Docs插件](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a6d58699aafe414e84eb3931cc48a0d9~tplv-k3u1fbpfcp-zoom-1.image)
+![推荐几个好用的Google Docs插件](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f7d92e8374a24b0481e437fb09eb3120~tplv-k3u1fbpfcp-zoom-1.image)
 
 您通常不会在 Google Docs 上找到写出方程式所需的所有符号或符号。
 
