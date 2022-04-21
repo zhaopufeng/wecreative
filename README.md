@@ -1,4 +1,4 @@
-# [思维万创 ](https://github.com/chinacode/wecreative/blob/main/blog "思维万创 - 专注出海、跨境电商、出海流量、软件开发")  
+# [思维万创 ](https://chinacode.github.io/wecreative/ "思维万创 - 专注出海、跨境电商、出海流量、软件开发")  
 专注出海、跨境电商、出海流量、软件开发  
 
 [如何在Twitter上停止自动播放视频](https://github.com/chinacode/wecreative/blob/main/blog/如何在Twitter上停止自动播放视频.md "如何在Twitter上停止自动播放视频")  
